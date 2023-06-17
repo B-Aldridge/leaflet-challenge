@@ -1,5 +1,14 @@
 # leaflet-challenge
 
-In this challenge, the task was to create an earthquake visualization using a dataset from https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php. The dataset selected was all earthquakes from the poast 7 days. This data was then imported and visualized through leaflet.
+In this challenge, an earthquake visualization was created using a dataset obtained from [USGS Earthquake Data](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php). The dataset includes information about all earthquakes that occurred within the past 7 days. Implementation of this was completed using Leaflet.
 
-Data markers were placed to reflect the magnitude, depth and location. The larger markers reflect the higher the magnitude. A legened was added cooresponding to the depth.
+-The earthquakes are represented on the map using data markers that reflect their magnitude, depth, and location.
+
+-Larger markers indicate higher magnitudes, providing a visual representation of the earthquake's intensity.
+
+-A legend is included to illustrate the depth range of the earthquakes.
+
+Final Results are shown below:
+
+![OUTPUT](Leaflet-challenge-part-1.png)
+
