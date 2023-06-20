@@ -19,7 +19,7 @@ d3.json(dataUrl).then(function (data) {
 
       // Define the marker options
       let markerOptions = {
-        radius: magnitude * 4, // Adjust the scale factor as needed
+        radius: magnitude * 4, 
         fillColor: getColor(depth),
         color: '#000',
         weight: 1,
